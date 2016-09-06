@@ -1,0 +1,23 @@
+{
+  "name": "transform-implementation",
+  "version": "1.0.0",
+  "description": "Simple server for implementing a stream",
+  "main": "http-start.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billyham/transform-implementation.git"
+  },
+  "author": "Dave Hanagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billyham/transform-implementation/issues"
+  },
+  "homepage": "https://github.com/billyham/transform-implementation#readme",
+  "dependencies": {
+    "satellite-stream": "^1.0.0"
+  }
+}
